@@ -1,0 +1,18 @@
+Start testing: Nov 06 09:02 UTC
+----------------------------------------------------------
+1/1 Testing: BloomFilterTests
+1/1 Test: BloomFilterTests
+Command: "/home/ubuntu/cpp-generator/workspace/bloom-filter-threadsafe/build/tests"
+Directory: /home/ubuntu/cpp-generator/workspace/bloom-filter-threadsafe/build
+"BloomFilterTests" start time: Nov 06 09:02 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"BloomFilterTests" end time: Nov 06 09:02 UTC
+"BloomFilterTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 06 09:02 UTC
